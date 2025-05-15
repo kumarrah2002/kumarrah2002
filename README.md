@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Rahul
 
-🚀 Machine Learning Engineer 
+🚀 Machine Learning Engineer <br>
 📍 Based in New York City | 🎓 M.S. Computer Science @ Fordham | ⚙️ Ex-Scale AI, Travelers, Dune Security
 
 ---
