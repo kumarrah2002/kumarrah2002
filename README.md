@@ -1,13 +1,13 @@
 # 👋 Hey, I’m Rahul
 
-🚀 Machine Learning Engineer <br>
-📍 Based in New York City | 🎓 M.S. Computer Science @ Fordham | ⚙️ Ex-Scale AI, Travelers, Dune Security
+🚀 Machine Learning Engineer Based in New York City 🗽<br>
+🎓 M.S. Computer Science @ Fordham University | ⚙️ Ex-Scale AI, Travelers Insurance, Dune Security
 
 ---
 
 ## 🌱 A Little About Me
-- 🧰 I build ML systems with Python, Golang, PyTorch, and whatever AWS throws at me (SageMaker, Lambda, S3—you name it).
-- 🛠️ Always tinkering with open source projects and tools that make machine learning infra a little less painful.
+- 🧰 I build ML systems with Python, Golang, PyTorch, and whatever AWS throws at me (SageMaker, Lambda, S3, etc.).
+- 🛠️ Always tinkering with open source projects (currently working on [LitServe](https://github.com/Lightning-AI/LitServe) @ [Lightning AI](https://github.com/Lightning-AI)).
 - ⚽ When I’m not coding, I’m either watching soccer highlights or exploring new restaurants around NYC.
 ---
 
@@ -20,9 +20,15 @@
 ![Flask](https://img.shields.io/badge/Flask-333?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/Django-333?style=flat&logo=django)
 
-**ML / Data / Cloud:**  
+**ML Libraries:** <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-333?style=flat&logo=keras)
+![Lightning](https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-333?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-333?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+
+**Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-333?style=flat&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-333?style=flat&logo=kubernetes)
