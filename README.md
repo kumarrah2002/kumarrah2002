@@ -7,7 +7,7 @@
 
 ## 🌱 A Little About Me
 - 🧰 I build ML systems with Python, Golang, PyTorch, and whatever AWS throws at me (SageMaker, Lambda, S3, etc.).
-- 🛠️ Always tinkering with open source projects (currently working on [LitServe](https://github.com/Lightning-AI/LitServe) @ [Lightning AI](https://github.com/Lightning-AI)).
+- 🛠️ Always tinkering with open source projects (currently working on [LitServe](https://github.com/Lightning-AI/LitServe) and [LitData](https://github.com/Lightning-AI/LitData) @ [Lightning AI](https://github.com/Lightning-AI)).
 - ⚽ When I’m not coding, I’m either watching soccer highlights or exploring new restaurants around NYC.
 ---
 
