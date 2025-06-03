@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Rahul
+# I’m Rahul Kumar
 
 🚀 Machine Learning Engineer Based in New York City 🗽<br>
 🎓 M.S. Computer Science @ Fordham University | ⚙️ Ex-Scale AI, Travelers Insurance, Dune Security
